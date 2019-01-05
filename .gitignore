@@ -22,7 +22,7 @@ target
 appLogs
 
 # IntelliJ Idea
-.idea/
+.idea/*
 out/
 *.ipr
 *.iws
